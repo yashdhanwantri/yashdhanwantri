@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashdhanwantri
 - 👀 I’m interested in learning and creating magic through my programming skills.
-- 🌱 I’m currently working as Software Developer having expertise of more than 5+ years in Software Development.
+- 🌱 I’m currently working as Software Developer having expertise of more than 5+ years.
 - 💞️ I’m looking to collaborate on various challenges.
 - 📫 You can reach me at yashdhanwantri@gmail.com
 
