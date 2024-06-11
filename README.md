@@ -22,11 +22,11 @@ With over 7 years of experience as a software developer, I specialize in buildin
   - Microsoft Visual Studio
   - Visual Studio Code
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/yash-dhanwantri/)
 
 [StackOverflow](https://stackoverflow.com/users/6644640/yash-dhanwantri)
-# 📫 How to reach me
+## 📫 How to reach me
 You can reach me via yashdhanwantri@gmail.com
 
 <!---
